@@ -10,3 +10,6 @@
 
 # anything build related
 *build*
+.develop
+.release
+cmake/build
